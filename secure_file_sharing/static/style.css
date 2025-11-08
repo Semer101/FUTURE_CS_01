@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(45deg, #7b507b, rgb(97, 77, 99));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: #645063;
+}
+main {
+    display: flex;   
+    flex-direction: column;            
+    justify-content: center;     
+    align-items: center;         
+    width: 50%;           
+    margin: 120px auto;
+    padding: 20px;                  
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #fff;
+    border-radius: 40px;
+    
+}
+input, button {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 1px solid #1e1c1c;
+    font-size: 16px;
+}
+button {
+    background-color: #a593a4;
+    color: white;
+    cursor:grab;
+}
