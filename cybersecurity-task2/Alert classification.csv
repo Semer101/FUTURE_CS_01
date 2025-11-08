@@ -1,0 +1,9 @@
+Alert Type,Count,Description,Severity
+malware-trojan,6,Trojan malware detected,High
+malware-ransomware,1,Detected ransomware behavior,High
+malware-worm,1,Worm malware detected,High
+malware-spyware,1,Spyware detected,Medium
+malware-rootkit,2,Rootkit detected,High
+loginfail,5,Multiple failed login attempts,Medium
+file accessed,10,Sensitive files accessed,Low
+connection attempt,12,Connection attempts,Low
